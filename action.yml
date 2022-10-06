@@ -1,4 +1,7 @@
 name: Build Unity 1.0.4
+
+on: push
+
 description: Build Unity project on Ubuntu, macOS or Windows
 inputs:
   unity-path:
